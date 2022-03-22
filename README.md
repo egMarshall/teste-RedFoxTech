@@ -11,11 +11,15 @@ Esta API deverá seguir o mínimo de práticas RESTful e conter listagens, busca
 ## O que precisa ter:
 
 Precisa ter um pouco sobre as seguintes tecnologias:
-(X) Conceitos de API RESTful
-(X) Modelagem de dados
-(X) NodeJS
-(X) Algum banco de dados, por exemplo, MySQL, SQL Server, MongoDB, etc...
-(X) Git
+(X) Conceitos de API RESTful;
+
+(X) Modelagem de dados;
+
+(X) NodeJS;
+
+(X) Algum banco de dados, por exemplo, MySQL, SQL Server, MongoDB;
+
+(X) Git.
 
 
 # O que foi feito:
